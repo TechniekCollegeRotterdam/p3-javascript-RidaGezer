@@ -4,3 +4,5 @@ function kleur_aanpassen(){
 title.innerText = "Inhoud aangepast"
 title.style.color = "red"
 }
+
+kleur_aanpassen()
