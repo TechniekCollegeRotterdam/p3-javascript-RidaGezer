@@ -1,12 +1,15 @@
 let getal = 0;
+let output = document.getElementById("getal");
 
-function plusGetal() {
+function plusGetal() {   
+
+  output.innerText = getal;
     
-    getal++;
-       
-    document.getElementById("getal").innerHTML = getal;
-        
-    if (getal === 10) {
+  if (getal === 10) {
           getal = 0;
         }
+
+    else{
+      getal++;
+    }
       }
