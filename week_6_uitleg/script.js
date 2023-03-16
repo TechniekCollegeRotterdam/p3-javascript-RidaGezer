@@ -1,4 +1,4 @@
-let inputField = document.getElementById('InputField');
+let inputField = document.getElementById('inputField');
 let button = document.getElementById('addToDo');
 let container = document.getElementById('toDoContainer');
 
@@ -10,7 +10,7 @@ button.addEventListener("click", function(){
     // De waarde van je input (Dus wat je in je input typt), wordt IN 
     // Je paragraaf geplaatst 
 
-    paragraph.innerText = inputField.ariaValueMax;
+    paragraph.innerText = inputField.value;
 
     // Paragraaf wordt toegevoegd aan de container
     container.appendChild(paragraph);
