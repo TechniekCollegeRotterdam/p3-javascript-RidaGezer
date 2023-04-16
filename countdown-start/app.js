@@ -1,9 +1,10 @@
 const countdown = () => {
   const countDate = new Date("Augustus 9, 2023 00:00:00").getTime();
 
+  
   const now = new Date().getTime();
 
-  const gap = countDate - now; //How the this works?
+  const gap = countDate - now; //How the this works? Hierdoor krijg je het verschil in tijd tussen vandaag en 9 augustus
 
   const second = 1000;
 
