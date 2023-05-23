@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Fiat",
+      "model": "500",
+      "weight": "650kg",
+      "color": "white"
+    },
+    {
+      "name": "Mercedes",
+      "model": "A Klasse",
+      "weight": "750kg",
+      "color": "grey"
+    },
+    {
+      "name": "BMW",
+      "model": "X7",
+      "weight": "850kg",
+      "color": "red"
+    }
+  ]
