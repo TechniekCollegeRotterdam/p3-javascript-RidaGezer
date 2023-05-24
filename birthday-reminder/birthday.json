@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Naruto",
+        "age": "22 Year old",
+        "img": "./img/naruto1.jpeg"
+    },
+    {
+        "name": "Sasuke",
+        "age": "24 Year old",
+        "img": "./img/sasuke2.jpeg"
+    },
+    {
+        "name": "Kakashi",
+        "age": "26 Year old",
+        "img": "./img/kakashi4.jpeg"
+    },
+    {
+        "name": "Sakura",
+        "age": "28 Year old",
+        "img": "./img/sakura3.jpeg"
+    },
+    {
+        "name": "Itachi",
+        "age": "20 Year old",
+        "img": "./img/itachi5.jpeg"
+    },
+    {
+        "name": "Obito",
+        "age": "20 Year old",
+        "img": "./img/obito6.jpeg"
+    }
+]
