@@ -1,0 +1,44 @@
+{
+  "registration": [
+    {
+      "id": 2,
+      "name": "Jan",
+      "surename": "Simons",
+      "place": "Rotterdam",
+      "number": "0611223344",
+      "mail": "jannie@outlook.com"
+    },
+    {
+      "id": 3,
+      "name": "Bilal",
+      "surename": "Otmani",
+      "place": "Utrecht",
+      "number": "0600998877",
+      "mail": "b.otmani@outlook.com"
+    },
+    {
+      "name": "Menno ",
+      "surename": "Stroop ",
+      "place": "Ouddorp",
+      "number": "0677334452",
+      "mail": "menno@outlook.com",
+      "id": 4
+    },
+    {
+      "name": "Pawlos",
+      "surename": "Abraham",
+      "place": "Rotterdam",
+      "number": "067788554",
+      "mail": "Pawlos@outlook.com",
+      "id": 5
+    },
+    {
+      "name": "Rida",
+      "surename": "Gezer",
+      "place": "Rotterdam",
+      "number": "063344322",
+      "mail": "ridagezer@outlook.com",
+      "id": 6
+    }
+  ]
+}

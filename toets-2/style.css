@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+body {
+  background-image: url(./img/summer3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+form {
+  width: 40vw;
+  height: 80vh;
+  background-color: rgb(230, 234, 146);
+  opacity: 0.5;
+  border-radius: 1rem;
+  opacity: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+.button {
+  width: 10vw;
+  height: 7vh;
+  margin-top: 2rem;
+  border-radius: 2rem;
+}
+label {
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  width: 20vw;
+  border-style: none;
+  height: 5vh;
+  margin-left: 2rem;
+  border-radius: 0.5rem;
+  opacity: 0.8;
+}
+.form-container {
+  margin-top: 2rem;
+  margin-left: 25rem;
+}
+
+h2 {
+  font-size: 3.5rem;
+  margin-left: 23rem;
+  margin-top: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(246, 221, 193);
+}
+
+.para {
+  display: flex;
+  width: 100vw;
+  height: 5vh;
+  background-color: rgba(149, 247, 57, 0.604);
+  margin-top: 1rem;
+  border-radius: 3rem;
+}
+p {
+  color: white;
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+
+.buttonadmin {
+  border-radius: 2rem;
+  border-style: none;
+  width: 5vw;
+  margin-left: 2rem;
+  background-color: rgb(10, 225, 64);
+  
+}
