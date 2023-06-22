@@ -39,6 +39,22 @@
       "number": "063344322",
       "mail": "ridagezer@outlook.com",
       "id": 6
+    },
+    {
+      "name": "Max",
+      "surename": "Van der linden",
+      "place": "Rotterdam",
+      "number": "065544332",
+      "mail": "max@outlook.com",
+      "id": 7
+    },
+    {
+      "name": "Jordy",
+      "surename": "Meer",
+      "place": "Rotterdam",
+      "number": "064433291",
+      "mail": "jordy@outlook.com",
+      "id": 8
     }
   ]
 }
